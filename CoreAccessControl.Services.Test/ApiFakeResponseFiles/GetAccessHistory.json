@@ -1,0 +1,42 @@
+{
+  "TotalRecords": 11,
+  "Data": [
+    {
+      "KeyDeviceActivityID": 2928774,
+      "TransDate": "2020-06-04T17:47:30Z",
+      "HostEventDate": "2020-06-14T01:41:22.5",
+      "KeyDate": "2020-06-04T17:47:19.844Z",
+      "EntryDate": "2020-06-04T17:47:20.113Z",
+      "KeyEntryDate": "2020-06-04T17:47:20.07Z",
+      "DownloadType": 0,
+      "KeyholderInfo": "",
+      "OperationCode": "00",
+      "OperationDescription": "Open Device",
+      "OperationDurationMs": 2591,
+      "OperationCommDurationMs": 798,
+      "OperationConnectDurationMs": 1792,
+      "OperationTotalDurationMs": 2718,
+      "OperationUserIntentDurationMs": 2582,
+      "KeyboxErrorCode": "0",
+      "FrameworkErrorCode": "0",
+      "DeviceSerial": 44491288,
+      "DeviceOwnerID": 292,
+      "DeviceSystemCode": "01D0010A",
+      "DeviceBatteryLevel": 95,
+      "DeviceVersion": "CP: 5.5 ST: 3.1 AP: 5.13 HW: 2.0",
+      "DeviceProgrammingDate": "2018-03-06T13:39:20.21Z",
+      "KeySerial": 50062591,
+      "KeyOwnerID": 292,
+      "KeySystemCode": "01D0010A",
+      "KeyName": "K042076",
+      "KeyDescription": "",
+      "KeyAllowPinReleaseShackle": false,
+      "KeyProduct": "0421",
+      "KeyVersion": "3.0.3.90",
+      "KeyCreatedDate": "2020-05-29T03:58:44.357Z",
+      "DeviceNameID": 5797,
+      "DeviceName": "Front Door",
+      "DeviceNameDescription": "Front Door Description"      
+    }
+  ]
+}

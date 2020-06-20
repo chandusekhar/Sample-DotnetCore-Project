@@ -1,0 +1,91 @@
+﻿{
+   "ContextClassName": "CoreaccesscontrolContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "CoreAccessControl.DataAccess.Ef",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ChangeEmailRequest]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Device]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[DeviceSpace]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Devicestatus]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[KeyHolder]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[KeyholderDevice]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[KeyholderSpace]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[KeyholderStatus]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Location]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Space]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[SpaceStatus]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserActivity]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserKeyMapping]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserLocation]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserPermission]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserStatus]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

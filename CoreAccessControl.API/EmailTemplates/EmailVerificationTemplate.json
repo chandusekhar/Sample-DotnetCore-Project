@@ -1,0 +1,4 @@
+{
+  "Subject": "Please verify the email",
+  "Body" :  "Please verify you email by clicking the following link <a href=\"{{Link}}\">Verify</a>"
+}

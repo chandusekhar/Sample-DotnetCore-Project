@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreAccessControl.DataAccess.Ef\CoreAccessControl.DataAccess.Ef.csproj" />
+    <ProjectReference Include="..\CoreAccessControl.Domains\CoreAccessControl.Domains\CoreAccessControl.Domain.csproj" />
+    <ProjectReference Include="..\CoreAccessControl.Logger\CoreAccessControl.Logger.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,4 @@
+{
+  "Subject": "Auth code",
+  "Body" :  "You have received an code : {{Code}}"
+}
